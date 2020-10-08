@@ -2,7 +2,7 @@
     "name": "HELPq",
     "description": "An extensible, customizable real-time queue system",
     "env": {
-        "ROOT_URL": "https://queue.tartanhacks.com/",
+        "ROOT_URL": "http://wdw-queue.herokuapp.com/",
         "ADMIN_PASSWORD": "secret",
         "ADMIN_USERNAME": "admin",
         "DEFAULT_MENTOR": "false",
